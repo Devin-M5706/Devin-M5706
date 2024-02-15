@@ -5,11 +5,12 @@
 
 - 💬 Ask me about **FRC, Arduino.**
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devin-M5706&show_icons=true&locale=en&layout=compact" alt="Devin-M5706" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/Holl0w.R6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Devin-M5706" height="30" width="40" /></a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devin-M5706&show_icons=true&locale=en" alt="Devin-M5706" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devin-M5706&" alt="Devin-M5706" /></p>
+
 
 <!--
 **Devin-M5706/Devin-M5706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
