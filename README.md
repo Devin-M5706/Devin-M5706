@@ -7,9 +7,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devin-M5706&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Devin-M5706" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devin-M5706&show_icons=true&locale=en" alt="Devin-M5706" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devin-M5706&show_icons=true&theme=tokyonight&locale=en" alt="Devin-M5706" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devin-M5706&" alt="Devin-M5706" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devin-M5706&theme=tokyonight" alt="Devin-M5706" /></p>
 
 
 <!--
