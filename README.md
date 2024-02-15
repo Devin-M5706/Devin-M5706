@@ -11,6 +11,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devin-M5706&theme=tokyonight" alt="Devin-M5706" /></p>
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=804.dev_)
+
 
 <!--
 **Devin-M5706/Devin-M5706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
