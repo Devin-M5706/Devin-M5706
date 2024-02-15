@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Devin-M5706 GitHub stats](https://github-readme-stats.vercel.app/api?username=Devin-M5706&show_icons=true&theme=radical))
+![Devin-M5706 GitHub stats](https://github-readme-stats.vercel.app/api?username=Devin-M5706&show_icons=true&theme=rtokyonight)
 
 <!--
 **Devin-M5706/Devin-M5706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
