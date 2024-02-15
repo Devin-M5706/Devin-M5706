@@ -1,4 +1,4 @@
-<h1 align="center">Hello im,Devin Myers🤠</h1>
+<h1 align="center">Hi 👋, I'm Devin Myers🤠</h1>
 <h3 align="center">Im a senior at Hermitage high school, I enjoy programming and first robotics</h3>
 
 - 🌱 I’m currently learning **Java,Python,and aspiring to learn Javascript in the future**
