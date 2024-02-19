@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Devin Myers🤠</h1>
-<h3 align="center">Im a Senior at Hermitage high school, I enjoy programming and first robotics</h3>
+<h1 align="center">Hi 👋, I'm Devin Myers</h1>
+<h3 align="center"> I am a Senior at Hermitage High School, I enjoy programming and first robotics</h3>
 
-- 🌱 I’m currently learning **Java,Python,and aspiring to learn Javascript in the future**
+- 🌱 I’m currently learning **Java, and Python, and aspiring to learn Javascript in the future**
 
 - 💬 Ask me about **FRC, Arduino.**
 
