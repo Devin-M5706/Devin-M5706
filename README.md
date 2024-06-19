@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devin Myers</h1>
-<h3 align="center"> I am a Senior at Hermitage High School, I enjoy programming and first robotics</h3>
+<h3 align="center"> I am a freshman at Penn State University, I enjoy programming and first robotics</h3>
 
 - 🌱 I’m currently learning **Java, and Python, and aspiring to learn Javascript in the future**
 
