@@ -11,7 +11,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devin-M5706&theme=tokyonight" alt="Devin-M5706" /></p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=dmyers5706)
 
 
 <!--
