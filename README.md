@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Devin Myers</h1>
-<h3 align="center"> I am a CS student at Penn State University, I enjoy programming and first robotics</h3>
+<h3 align="center"> I am a CS student at Penn State University; I enjoy programming and first robotics</h3>
 
-- 🌱 I’m currently learning **Java, and Python, and aspiring to learn Javascript in the future**
+- 🌱 I’m currently learning **Java and Python, and aspiring to learn Javascript in the future**
 
-- 💬 Ask me about **FRC, Arduino.**
+- 💬 Ask me about **FRC, Arduino**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devin-M5706&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Devin-M5706" /></p>
 
