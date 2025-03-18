@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Some personal summer projects any inquiries contact me :)**
 
-- ⚡ Fun fact: **I Originally wanted to study Medicine**
+- ⚡ Fun fact: **I originally wanted to study medicine**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devin-M5706&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Devin-M5706" /></p>
 
