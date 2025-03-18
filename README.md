@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java and Python, and aspiring to learn more about Cybersecurity for personal interest**
 
-- 💬 Ask me about **FRC, Arduino,Python , Java , DSA ,MicroROS , Music(specifically Hip-hop and RNB)**
+- 💬 Ask me about **FRC, Arduino , Python , Java , DSA , MicroROS , Music(specifically Hip-hop and RNB)**
 
 - 🔭 I’m currently working on **Some personal summer projects any inquiries contact me :)**
 
