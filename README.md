@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java and Python, and aspiring to learn more about Cybersecurity for personal interest**
 
-- 💬 Ask me about **FRC, Arduino,Python , Java ,DSA,MicroROS , Music(specifically Hip-hop and RNB**
+- 💬 Ask me about **FRC, Arduino,Python , Java , DSA ,MicroROS , Music(specifically Hip-hop and RNB) **
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devin-M5706&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Devin-M5706" /></p>
 
