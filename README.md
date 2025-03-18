@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Devin Myers</h1>
-<h3 align="center"> I am a CS student at Penn State University; I enjoy Programming,Robotics,Anime and Football</h3>
+<h3 align="center"> I am a Computer Science student at Penn State University in the college of engineering</h3>
 
 - 🌱 I’m currently learning **Java and Python, and aspiring to learn more about Cybersecurity for personal interest**
 
-- 💬 Ask me about **FRC, Arduino,Python , Java , DSA ,MicroROS , Music(specifically Hip-hop and RNB) **
+- 💬 Ask me about **FRC, Arduino,Python , Java , DSA ,MicroROS , Music(specifically Hip-hop and RNB)**
+
+- 🔭 I’m currently working on **Some personal summer projects any inquiries contact me :)**
+
+- ⚡ Fun fact: **I built a fully functioning lego polaroid camera this break**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devin-M5706&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Devin-M5706" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devin-M5706&show_icons=true&theme=tokyonight&locale=en" alt="Devin-M5706" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Devin-M5706&theme=tokyonight" alt="Devin-M5706" /></p>
-
 
 
 <!--
