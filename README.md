@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact: **I originally wanted to study medicine**
 
+- 🛠️ TECH STACK/Library usage: **🐍: Python 📜: JavaScript  ☕: Java  🤖: AI/Machine Learning  🦾:Mirco-ROS 👀:OpenCV   🐢:Node.js  🔥:Firebase  
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devin-M5706&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Devin-M5706" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devin-M5706&show_icons=true&theme=tokyonight&locale=en" alt="Devin-M5706" /></p>
