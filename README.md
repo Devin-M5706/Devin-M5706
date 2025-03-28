@@ -15,6 +15,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devin-M5706&show_icons=true&theme=tokyonight&locale=en" alt="Devin-M5706" /></p>
 
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-4.2-green?logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-18-blue?logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4-cyan?logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-Auth-yellow?logo=firebase&logoColor=white)
+
+
 
 <!--
 **Devin-M5706/Devin-M5706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
