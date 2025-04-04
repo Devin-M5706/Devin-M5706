@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Some personal summer projects any inquiries contact me :)**
 
-- ⚡ Fun fact: **I originally wanted to study medicine**
+- ⚡ Fun fact: **I Love playing R6S**
 
 - 🛠️ TECH STACK/Library usage: **🐍: Python 📜: JavaScript  ☕: Java  🧠: AI/Machine Learning(Recent use TensorFlow Lite)  🦾:Mirco-ROS 👀:OpenCV   🐢:Node.js  🔥:Firebase  🤖:WPILIB**
 
