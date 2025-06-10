@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **Java and Python, and aspiring to learn more about Cybersecurity for personal interest**
 
-- 💬 Ask me about **FRC, Arduino , Python , Java , DSA , MicroROS , Music(specifically Hip-hop and RNB)**
+- 💬 Ask me about **FRC, Arduino , Python , Java , DSA , MicroROS**
 
 - 🔭 I’m currently working on **Some personal summer projects any inquiries contact me :)**
-
-- ⚡ Fun fact: **I Love playing Fragpunk & Minecraft**
 
 - 🛠️ TECH STACK/Library usage: **🐍: Python 📜: JavaScript  ☕: Java  🧠: AI/Machine Learning(Recent use TensorFlow Lite)  🦾:Mirco-ROS 👀:OpenCV   🐢:Node.js  🔥:Firebase  🤖:WPILIB**
 
