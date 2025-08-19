@@ -11,9 +11,6 @@
 
 - 🛠️ TECH STACK/Library usage: **🐍: Python 📜: JavaScript  ☕: Java  🧠: AI/Machine Learning(Recent use TensorFlow Lite)  🦾:Mirco-ROS 👀:OpenCV   🐢:Node.js  🔥:Firebase  🤖:WPILIB**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devin-M5706&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Devin-M5706" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devin-M5706&show_icons=true&theme=tokyonight&locale=en" alt="Devin-M5706" /></p>
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-4.2-green?logo=django&logoColor=white)
