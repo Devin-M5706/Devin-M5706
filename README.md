@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi👋, I'm Devin Myers</h1>
 <h3 align="center"> I am a Computer Science student at Penn State University</h3>
- ![funny prgm haha](ME.png)
 
 🌱 I’m currently learning Java and Python, and aspiring to learn more about Cybersecurity for personal interest
 
