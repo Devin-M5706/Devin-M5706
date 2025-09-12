@@ -3,11 +3,9 @@
 <h1 align="center">Hi👋, I'm Devin Myers</h1>
 <h3 align="center"> I am a Computer Science student at Penn State University</h3>
 
-- 🌱 I’m currently learning **Java and Python, and aspiring to learn more about Cybersecurity for personal interest**
+# 👋 &nbsp;Hi there
 
-- 💬 Ask me about **FRC, Arduino , Python , Java , DSA , MicroROS**
-
-- 🔭 I’m currently working on **Some personal summer projects any inquiries contact me :)**
+I'm a software engineer. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like 3D printing, coding and building various projects with RaspberryPi's or Arduino. And I love Home Automation and Home Labs.
 
   ![funny prgm haha](ME.png)
 
