@@ -3,6 +3,12 @@
 <h1 align="center">Hi 🤠, I'm Devin Myers</h1>
 <h3 align="center"> I am a Computer Science student at Penn State University</h3>
 
+
+<p align="center">
+<img width="20%" src="<img width="1401" height="784" alt="ME" src="https://github.com/user-attachments/assets/e2ee293d-a816-4cf0-bb19-bfa7196143ac" />
+"/>
+</p>
+
 - 🌱 I’m currently learning **Java and Python, and aspiring to learn more about Cybersecurity for personal interest**
 
 - 💬 Ask me about **FRC, Arduino , Python , Java , DSA , MicroROS**
