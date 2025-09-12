@@ -1,7 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff)
 
 <h1 align="center">Hi👋, I'm Devin Myers</h1>
-![funny prgm haha](ME.png)
 <h3 align="center"> I am a Computer Science student at Penn State University</h3>
 
 - 🌱 I’m currently learning **Java and Python, and aspiring to learn more about Cybersecurity for personal interest**
