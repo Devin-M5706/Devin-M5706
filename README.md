@@ -9,6 +9,8 @@
 
 🔭 I’m currently working on Some personal summer projects any inquiries contact me :)
 
+-------
+
   ![funny prgm haha](ME.png)
 
 ## 🧰 &nbsp;My toolbox
