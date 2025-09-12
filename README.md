@@ -5,8 +5,7 @@
 
 
 <p align="center">
-<img width="20%" src="<img width="1401" height="784" alt="ME" src="https://github.com/user-attachments/assets/e2ee293d-a816-4cf0-bb19-bfa7196143ac" />
-"/>
+<img width="20%" src=["https://img.icons8.com/ios-filled/96/000000/programming.png"](https://www.canva.com/design/DAGywNmprZ0/k4GvOGheUaDe1MiqN_nHzA/view?utm_content=DAGywNmprZ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h98fc996b2f)/>
 </p>
 
 - 🌱 I’m currently learning **Java and Python, and aspiring to learn more about Cybersecurity for personal interest**
