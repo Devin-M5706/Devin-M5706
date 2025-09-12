@@ -1,10 +1,8 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff)
 
 <h1 align="center">Hi👋, I'm Devin Myers</h1>
-<h3 align="center"> I am a Computer Science student at Penn State University</h3>
-
 ![funny prgm haha](ME.png)
-
+<h3 align="center"> I am a Computer Science student at Penn State University</h3>
 
 - 🌱 I’m currently learning **Java and Python, and aspiring to learn more about Cybersecurity for personal interest**
 
@@ -22,6 +20,7 @@
 ### 📊 GitHub Stats:
 ![Devin-M5706 github stats](https://github-readme-stats.vercel.app/api?username=Devin-M5706&theme=nord&show_icons=true&count_private=true)
 
+![funny prgm haha](ME.png)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-4.2-green?logo=django&logoColor=white)
