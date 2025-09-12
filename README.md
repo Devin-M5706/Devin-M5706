@@ -16,10 +16,8 @@
 &nbsp;
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Devin-M5706&show_icons=true&locale=en&theme=tokyonight&layout=compact" alt="Devin-M5706" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Devin-M5706&show_icons=true&theme=tokyonight&locale=en" alt="Devin-M5706" /></p>
-
+### 📊 GitHub Stats:
+![Devin-M5706 github stats](https://github-readme-stats.vercel.app/api?username=Devin-M5706&theme=nord&show_icons=true&count_private=true)
 
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)
