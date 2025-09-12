@@ -4,10 +4,6 @@
 <h3 align="center"> I am a Computer Science student at Penn State University</h3>
 
 
-<p align="center">
-<img width="20%" src="(https://www.canva.com/design/DAGywNmprZ0/k4GvOGheUaDe1MiqN_nHzA/view?utm_content=DAGywNmprZ0&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h98fc996b2f)"/>
-</p>
-
 - 🌱 I’m currently learning **Java and Python, and aspiring to learn more about Cybersecurity for personal interest**
 
 - 💬 Ask me about **FRC, Arduino , Python , Java , DSA , MicroROS**
