@@ -1,13 +1,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontColor=ffffff)
 
 <h1 align="center">Hi👋, I'm Devin Myers</h1>
-<h3 align="center"> I am a Computer Engineering student at Penn State University</h3>
+<h3 align="center">I am a Computer Engineering student at Penn State University</h3>
 
-🌱 I’m currently learning Java and Python, and aspiring to learn more about Cybersecurity for personal interest
+🌱 I’m currently learning Java, Python, and C. I am always aspiring to learn more about Cybersecurity for personal interest
 
-💬 Ask me about FRC, Arduino , Python , Java , DSA , MicroROS
+💬 Ask me about FRC, Arduino, Python, Java, DSA, MicroROS
 
-🔭 I’m currently working on Some personal summer projects any inquiries contact me :)
+🔭 I’m currently working on some personal winter projects; any inquiries contact me :)
 
 -------
 
