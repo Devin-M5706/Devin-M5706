@@ -8,11 +8,6 @@
 💬 Ask me about FRC, Arduino, Python, Java, DSA, MicroROS
 
 🔭 I’m currently working on some personal winter projects; any inquiries contact me :)
-
--------
-
-  ![funny prgm haha](ME.png)
-
 -------
 ## 🧰 &nbsp;My toolbox
 
