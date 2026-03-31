@@ -10,8 +10,11 @@
 
 ---
 
-## The project that got a comment from Yann LeCun & Over Half a Million Impressions
+## The project that got a comment from Yann LeCun
+
 > **I built a working neural network inside Minecraft using only redstone.**
+
+[![Minecraft Neural Network Demo](https://img.youtube.com/vi/ks3L1RVmzng/maxresdefault.jpg)](https://youtu.be/ks3L1RVmzng)
 
 - **Architecture:** 784 inputs → 10-node hidden layer → 10 output classes
 - **Dataset:** MNIST handwritten digits
