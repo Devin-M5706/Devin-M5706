@@ -30,7 +30,7 @@ This is the project that taught me more about neural networks than any textbook 
 | 🎮 **Pokémon Emerald RL Agent** | RL from scratch — no libraries. Lua-Python bridge to mGBA emulator. Every update rule hand-implemented. | Python · Lua · mGBA |
 | 🤖 **AI Document Pipeline** | OCR + RAG pipeline for automated document processing @ Outamation | Python · LangChain · OCR · Vector Search |
 | 🚗 **Autonomous Off-Road Vehicle** | Sensor fusion + autonomy stack on NVIDIA Jetson for Penn State research | ROS2 · LiDAR · C++ · Jetson |
-| 🎯 **Head Maze** | Snap Lens game: head rotation → marble physics, blink-to-checkpoint, procedural mazes. Built in 24h at Y-Hack 2026 (Yale) | Snap Lens Studio · Quaternion Math |
+| ❤️ **handsforhearts.health** | Apple Watch detects cardiac arrest via multi-signal ML (HR, HRV, SpO₂, motion), fires a Critical Alert to every opted-in iPhone within 100m, bypasses DND, calls 911, and guides bystanders through CPR — target response under 90s. Built at Y-Hack 2026 (Yale). | Swift · Apple Watch · HealthKit · APNs · CoreLocation |
 
 ---
 
