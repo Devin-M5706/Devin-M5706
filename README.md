@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,100:3B82F6&height=180&section=header&text=Devin%20Myers&fontSize=48&fontColor=ffffff&desc=Computer%20Engineering%20%40%20Penn%20State&descSize=18&descAlignY=75)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Devin%20Myers-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/devinmyerspsu/"><img src="https://img.shields.io/badge/LinkedIn-Devin%20Myers-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-SWE%20Co--ops%20%26%20Internships-1D9E75?style=flat-square"/>
   &nbsp;
