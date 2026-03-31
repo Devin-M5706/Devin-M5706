@@ -10,7 +10,7 @@
 
 ---
 
-## The project that got a comment from Yann LeCun
+## The project that got a comment from Yann LeCun & Over Half a Million impressions 
 
 > **I built a working neural network inside Minecraft using only redstone.**
 
