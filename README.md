@@ -80,9 +80,9 @@ I compete at hackathons (TartanHacks · Y-Hack · LA Hacks · HackPrinceton) to 
 ## GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devin-M5706&show_icons=true&hide_border=true&theme=default&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Devin-M5706&hide_border=true&theme=default" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devin-M5706&layout=compact&hide_border=true&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devin-M5706&layout=compact&hide_border=true&theme=default&cache_seconds=86400" height="150"/>
 </p>
 
 ---
