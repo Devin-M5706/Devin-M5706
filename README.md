@@ -1,6 +1,6 @@
 <table>
 <tr>
-<td><b>Computer Eng @ Penn State '28 / Founder.</b> Building things that sound fake until they ship.</td>
+<td><b>CompEng @ Penn State '28 / Founder.</b> Building things that sound fake until they ship.</td>
 <td align="right">
 <a href="https://devincodes.me">Portfolio</a> ·
 <a href="https://linkedin.com/in/devinmyerspsu">LinkedIn</a> ·
