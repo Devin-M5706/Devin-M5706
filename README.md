@@ -12,7 +12,7 @@
 
 I build **AI agents**, **on-device ML**, **autonomous systems**, and the occasional **neural network made of Minecraft redstone**.
 
-▸ Founder & CTO of [**HandsForHearts**](https://handsforhearts.health) · Apple Watch cardiac arrest detection · sub-90s on-device Core ML inference · **Y-Hack '26 winner**<br>
+▸ Founder & CTO of [**HandsForHearts**](https://handsforhearts.health) · Apple Watch cardiac arrest detection · sub-90s on-device Core ML inference · **Built at Yale**<br>
 ▸ Built a [**neural network in Minecraft redstone**](https://youtu.be/ks3L1RVmzng) · 83% MNIST, zero ML libraries · 500K+ impressions · comment from **Yann LeCun**<br>
 ▸ **HackPrinceton '25** · Lumos.health · 2× track winner · smartphone photo → noma triage in 8–12 seconds<br>
 ▸ **GDG Solution Challenge '26** · Rethread · 1st Climate Track · 2nd overall · Top-10 North America → regionals @ Google<br>
